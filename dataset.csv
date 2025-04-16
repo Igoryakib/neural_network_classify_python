@@ -1,0 +1,11 @@
+bitmap,bg,fg,cursor
+
+info,red,black,arrow
+info,white,black,arrow
+warning,yellow,white,circle
+info,white,black,arrow
+question,black,white,heart
+warning,yellow,white,circle
+question,black,white,heart
+info,white,black,arrow
+question,black,white,heart
