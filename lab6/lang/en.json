@@ -1,0 +1,21 @@
+{
+  "title": "Media Player",
+  "labelT": "Welcome to Media Player",
+  "menuBar1": "File",
+  "menuBar2": "Controls",
+  "menuBar3": "Playlist",
+  "menuBar4": "View",
+  "menuBar5": "Help",
+  "file1": "Open",
+  "Control1": "Play",
+  "Control2": "Pause",
+  "Control3": "Stop",
+  "Control4": "Next Track",
+  "playlist1": "Add to Playlist",
+  "playlist2": "Clear Playlist",
+  "labelPl1": "Current playlist",
+  "labelPl2": "Opened file",
+  "labelPl3": "Playlist cleared",
+  "themeD": "Dark Theme",
+  "themeL": "Light Theme"
+}
